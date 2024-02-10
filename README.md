@@ -36,6 +36,8 @@ Mock one page website for a private island resort
 - `cd privateislandresort` Open up the cloned repository.
 - `open index.html` to open the application in your browser.
 
+Alternatively click [here](https://marclignarius.github.io/privateislandresort/) to view the site as a Github page https://marclignarius.github.io/privateislandresort/
+
 ## Known Bugs
 
 There are no known bugs as of this release.
